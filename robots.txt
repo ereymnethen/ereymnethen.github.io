@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ereymnethen.github.io/sitemap
+Sitemap: https://ereymnethen.github.io/app/sitemap
+Sitemap: https://ereymnethen.github.io/assets/sitemap
+Sitemap: https://ereymnethen.github.io/css/sitemap
+Sitemap: https://ereymnethen.github.io/includes/sitemap
+Sitemap: https://ereymnethen.github.io/item/sitemap
+Sitemap: https://ereymnethen.github.io/src/sitemap
